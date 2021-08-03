@@ -1,12 +1,13 @@
 # Managing commands
 
-{% hint style="info" %}
-Please consider using the website at [https://carl.gg](https://carl.gg) it is much, much easier for this
-{% endhint %}
+```
+Please consider using the website at [https://carl.gg] it is much, much easier for this
+```
+Website Link : (https://carl.gg)
 
-{% hint style="info" %}
+```
 Restricted commands require a bot channel to be set up with `!set bot <channel>`
-{% endhint %}
+```
 
 | Name | Example | Usage |
 | :--- | :--- | :--- |
